@@ -1,0 +1,6 @@
+[submodule "iwslt2023_ga-eng"]
+	path = iwslt2023_ga-eng
+	url = https://github.com/shashwatup9k/iwslt2023_ga-eng
+[submodule "iwslt2025_ga-eng"]
+	path = iwslt2025_ga-eng
+	url = https://github.com/shashwatup9k/iwslt2023_ga-eng.git
