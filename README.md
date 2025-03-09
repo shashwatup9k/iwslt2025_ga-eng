@@ -10,7 +10,7 @@ We point participants to additional Irish pre-trained models (the models are tra
 - [wav2vec 2.0/wav2vec 2.0 (XLSR) ](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec#pre-trained-models)
 - [Opus Irish-English parallel and monolingual dataset](https://opus.nlpl.eu/results/ga&en/corpus-result-table)
 - [Irish-English and English-Irish parallel COVID dataset](https://github.com/loresmt/loresmt-2021)
-- [Whisper Medium GA-EN Speech Translation]([https://huggingface.co/ymoslem/whisper-medium-ga2en-v6.3.0-4k-r](https://huggingface.co/ymoslem/whisper-medium-ga2en-v6.3.0-4k-r))
+- [Whisper Medium GA-EN Speech Translation](https://huggingface.co/ymoslem/whisper-medium-ga2en-v6.3.0-4k-r)
 
 **NB!** The training dataset has duplicate segments due to gender and age variety. The IWSLT 2025 test set will be available on April 01, 2025.
 
