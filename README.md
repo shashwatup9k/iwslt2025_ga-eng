@@ -14,6 +14,8 @@ We point participants to additional Irish pre-trained models (the models are tra
 
 **NB!** The training dataset has duplicate segments due to gender and age variety. The IWSLT 2025 test set will be available on April 01, 2025.
 
+[April 2025 Update:] THE TEST DATA FOR 2025 IS NOW AVAILABLE [HERE](https://github.com/shashwatup9k/iwslt2025_ga-eng/tree/main/test-2025)
+
 
 ## Structure of the ` Shared Task data`:
 ```
