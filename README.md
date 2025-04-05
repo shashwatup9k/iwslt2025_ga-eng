@@ -61,7 +61,7 @@ The latest data statistics are presented below:
 │IWSLT-2023 & 2024 Irish↔English (dev)   │  1120       │  1120           		│
 │IWSLT-2023 & 2024 Irish↔English (test)  │  961        │  961        			│
 │Synthetic data                          │   -         |  86324                           |
-│Irish↔English (test-2025)  		│  TBD        │  TBD				│
+│Irish↔English (test-2025)  		│  770        │  770				│
 ```
 
 # License
