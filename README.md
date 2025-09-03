@@ -72,6 +72,76 @@ We would like to thank [Taighde Éireann – Research Ireland](https://www.resea
 ## Citation
 ## References
 <pre>
+   @inproceedings{agostinelli-etal-2025-findings,
+    title = "Findings of the {IWSLT} 2025 Evaluation Campaign",
+    author = {Abdulmumin, Idris  and
+      Agostinelli, Victor  and
+      Alum{\"a}e, Tanel  and
+      Anastasopoulos, Antonios  and
+      Bentivogli, Luisa  and
+      Bojar, Ond{\v{r}}ej  and
+      Borg, Claudia  and
+      Bougares, Fethi  and
+      Cattoni, Roldano  and
+      Cettolo, Mauro  and
+      Chen, Lizhong  and
+      Chen, William  and
+      Dabre, Raj  and
+      Est{\`e}ve, Yannick  and
+      Federico, Marcello  and
+      Fishel, Mark  and
+      Gaido, Marco  and
+      Javorsk{\'y}, D{\'a}vid  and
+      Kasztelnik, Marek  and
+      Kponou, Fortun{\'e}  and
+      Krubi{\'n}ski, Mateusz  and
+      Kin Lam, Tsz  and
+      Liu, Danni  and
+      Matusov, Evgeny  and
+      Kumar Maurya, Chandresh  and
+      P. McCrae, John  and
+      Mdhaffar, Salima  and
+      Moslem, Yasmin  and
+      Murray, Kenton  and
+      Nakamura, Satoshi  and
+      Negri, Matteo  and
+      Niehues, Jan  and
+      Kr. Ojha, Atul  and
+      Ortega, John E.  and
+      Papi, Sara  and
+      Pecina, Pavel  and
+      Pol{\'a}k, Peter  and
+      Po{\l}e{\'c}, Piotr  and
+      Sankar, Ashwin  and
+      Savoldi, Beatrice  and
+      Sethiya, Nivedita  and
+      Sikasote, Claytone  and
+      Sperber, Matthias  and
+      St{\"u}ker, Sebastian  and
+      Sudoh, Katsuhito  and
+      Thompson, Brian  and
+      Turchi, Marco  and
+      Waibel, Alex  and
+      Wilken, Patrick  and
+      Zevallos, Rodolfo  and
+      Zouhar, Vil{\'e}m  and
+      Z{\"u}fle, Maike},
+    editor = "Salesky, Elizabeth  and
+      Federico, Marcello  and
+      Anastasopoulos, Antonis",
+    booktitle = "Proceedings of the 22nd International Conference on Spoken Language Translation (IWSLT 2025)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria (in-person and online)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.iwslt-1.44/",
+    doi = "10.18653/v1/2025.iwslt-1.44",
+    pages = "412--481",
+    ISBN = "979-8-89176-272-5",
+    abstract = "This paper presents the outcomes of the shared tasks conducted at the 22nd International Workshop on Spoken Language Translation (IWSLT). The workshop addressed seven critical challenges in spoken language translation: simultaneous and offline translation, automatic subtitling and dubbing, model compression, speech-to-speech translation, dialect and low-resource speech translation, and Indic languages. The shared tasks garnered significant participation, with 32 teams submitting their runs. The field{'}s growing importance is reflected in the increasing diversity of shared task organizers and contributors to this overview paper, representing a balanced mix of industrial and academic institutions. This broad participation demonstrates the rising prominence of spoken language translation in both research and practical applications."
+}
+</pre>
+<pre>
    @inproceedings{ahmad-etal-2024-findings,
     title = "{FINDINGS} {OF} {THE} {IWSLT} 2024 {EVALUATION} {CAMPAIGN}",
     author = {Ahmad, Ibrahim Said  and
